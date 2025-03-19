@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\bin\Debug\Suma na obyrnati chisla.exe.config
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\bin\Debug\Suma na obyrnati chisla.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\bin\Debug\Suma na obyrnati chisla.pdb
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\obj\Debug\Suma na obyrnati chisla.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\obj\Debug\Suma na obyrnati chisla.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\obj\Debug\Suma na obyrnati chisla.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Suma na obyrnati chisla\obj\Debug\Suma na obyrnati chisla.pdb

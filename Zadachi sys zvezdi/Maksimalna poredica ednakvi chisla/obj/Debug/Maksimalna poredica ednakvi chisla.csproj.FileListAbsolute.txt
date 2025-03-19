@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\bin\Debug\Maksimalna poredica ednakvi chisla.exe.config
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\bin\Debug\Maksimalna poredica ednakvi chisla.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\bin\Debug\Maksimalna poredica ednakvi chisla.pdb
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\obj\Debug\Maksimalna poredica ednakvi chisla.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\obj\Debug\Maksimalna poredica ednakvi chisla.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\obj\Debug\Maksimalna poredica ednakvi chisla.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Maksimalna poredica ednakvi chisla\obj\Debug\Maksimalna poredica ednakvi chisla.pdb
