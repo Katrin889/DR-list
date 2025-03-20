@@ -1,7 +1,0 @@
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\bin\Debug\Zadachi sys zvezdi.exe.config
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\bin\Debug\Zadachi sys zvezdi.exe
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\bin\Debug\Zadachi sys zvezdi.pdb
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\obj\Debug\Zadachi sys zvezdi.csproj.AssemblyReference.cache
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\obj\Debug\Zadachi sys zvezdi.csproj.CoreCompileInputs.cache
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\obj\Debug\Zadachi sys zvezdi.exe
-C:\Users\katri\Documents\My Web Sites\Domashni\Zadachi sys zvezdi\Zadachi sys zvezdi\obj\Debug\Zadachi sys zvezdi.pdb
