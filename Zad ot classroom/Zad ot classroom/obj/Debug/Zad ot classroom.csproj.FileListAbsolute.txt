@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\bin\Debug\Zad ot classroom.exe.config
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\bin\Debug\Zad ot classroom.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\bin\Debug\Zad ot classroom.pdb
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\obj\Debug\Zad ot classroom.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\obj\Debug\Zad ot classroom.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\obj\Debug\Zad ot classroom.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\Zad ot classroom\Zad ot classroom\obj\Debug\Zad ot classroom.pdb
